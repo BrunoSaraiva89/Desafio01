@@ -1,0 +1,57 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 221, 0);
+}
+
+#botaoUsuario {
+    text-align: right;
+    padding: 5px 5px 0 0;
+}
+
+#botaoUsuario img {
+    width: 30px;
+}
+
+#logoCentral {
+    text-align: center;
+    padding: 50px 0;
+}
+
+#logoCentral img{
+    width: 200px;
+}
+
+#barraPesquisa {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#barraPesquisa input {
+    width: 400px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#botoesPesquisa {
+    text-align: center;
+}
+
+#botoesPesquisa button {
+    background-color: #383231;
+    color: white;
+    padding: 10px 20px;
+    margin: 0 5px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#botoesPesquisa button:hover {
+    background-color: #357ae8;
+}
